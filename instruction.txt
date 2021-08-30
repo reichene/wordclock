@@ -1,0 +1,32 @@
+11x10 Buchstaben
+-----------------
+450mm x 450mm groﬂe Platte
+-----------------
+28mm zwischen LED auf Stripe
+10mm Breite Stripe
+-----------------
+L = Breite LED
+(r) = (optional) Abstand zwischen LED und Bohrloch
+
+
+|--(r)--|-L-|--(r)--|----x----|--(r)--|-L-|--(r)--|
+             <------------------------>
+                        28mm
+           <---------------------------->
+                          d
+
+r = 5-((1/2)L)
+x = 18 + L (e.g. L = 8 => x = 26 ==> 26mm zwischen den Bohrlˆchern-Kanten)
+
+Abstand zwischen den Lˆchern 
+d = 18 + 3/2L
+L = 10 ==> d = 33mm Abstand zwischen den Buchstaben
+
+Achtung: Beachte Querschnitt von Bohrloch (Bohrerdicke ausrechnen mit Pythagoras)
+----------------
+
+
+
+
+
+
